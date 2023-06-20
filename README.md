@@ -19,4 +19,4 @@ Possuo Técnico em computação Gráfica e experiencia em linguagens de programa
 
 ### Contatos
 
-<img src='https://img.shields.io/badge/Linkedin-007785?style=for-the-badge&logo=linkedi&Color=white' alt='Lnkedin' height='30'>](https: //www.Linkedin.com/in/AlysonLopes/)
+<img src='https://img.shields.io/badge/Linkedin-007785?style=for-the-badge&logo=linkedi&Color=white' alt='Lnkedin' height='30'>(https: //www.Linkedin.com/in/AlysonLopes/)
