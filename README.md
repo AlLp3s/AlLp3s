@@ -10,3 +10,6 @@ Possuo Técnico em computação Gráfica e experiencia em linguagens de programa
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlLp3s&showicons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### Projeto
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlLp3s&repo=Projeto-Jornadadev-EBAC)](https://github.com/anuraghazra/github-readme-stats)
