@@ -16,4 +16,4 @@ Possuo Técnico em computação Gráfica e experiencia em linguagens de programa
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlLp3s&layout=compact)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlLp3s)](https://github.com/anuraghazra/github-readme-stats)
