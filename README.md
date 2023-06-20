@@ -14,5 +14,5 @@ Possuo Técnico em computação Gráfica e experiencia em linguagens de programa
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlLp3s&repo=Projeto-Jornadadev-EBAC&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlLp3s&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlLp3s&layout=compact&theme=dark)
 
