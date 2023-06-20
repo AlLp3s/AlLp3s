@@ -8,6 +8,13 @@ Possuo Técnico em computação Gráfica e experiencia em linguagens de programa
 
 ### Detalhes
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlLp3s&repo=Projeto-Jornadadev-EBAC&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Projeto-Jornadadev-EBAC&theme=dark" />
+</a>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlLp3s&showicons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projeto
@@ -16,4 +23,3 @@ Possuo Técnico em computação Gráfica e experiencia em linguagens de programa
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlLp3s&layout=compact)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlLp3s)](https://github.com/anuraghazra/github-readme-stats)
